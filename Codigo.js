@@ -8,3 +8,4 @@ function restaurarImagen(imagenOriginal) {
 function mostrarMensaje() {
     alert("¡Gracias por vistar nuestra pagina!");
 }
+
